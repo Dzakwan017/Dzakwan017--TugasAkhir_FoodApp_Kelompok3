@@ -12,6 +12,36 @@
         android:theme="@style/Theme.TugasAkhir_FoodApp_Kelompok3"
         tools:targetApi="31">
         <activity
+            android:name=".Sender"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".List_MenuAdapter"
+            android:exported="false" />
+        <activity
+            android:name=".List_Menu"
+            android:exported="false" />
+        <activity
+            android:name=".Daftar_Menu"
+            android:exported="false" />
+        <activity
+            android:name=".Keranjang"
+            android:exported="false" />
+        <activity
+            android:name=".Ramen"
+            android:exported="false" />
+        <activity
+            android:name=".Sushi"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_tiga"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">TugasAkhir_FoodApp_Kelompok3</string>
+    <string name="app_name">Japanese</string>
+    <string name="tombol_order">ORDER</string>
+    <string name="tombol_nextorder">NEXT</string>
+    <string name="tombol_ok">OK</string>
+    <string-array name="daftar_menu">
+        <item> Ramen       --  Rp 20.000,- </item>
+        <item> Sushi       --  Rp 30.000,- </item>
+    </string-array>
+    <string name="nama_lengkap">Nama :</string>
+    <string name="no_hp">No. Handphone :</string>
+    <string name="alamat">Alamat :</string>
+    <string name="jk">Jenis Kelamin : </string>
+    <string name="laki_laki">Laki - Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="to_regis">REGISTER</string>
 </resources>
